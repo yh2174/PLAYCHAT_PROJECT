@@ -58,3 +58,5 @@ API: YOUTUBE V3
 사용자 채팅
 
 방 생성 및 관리
+
+**Google Youtube V3 API** 필요 
