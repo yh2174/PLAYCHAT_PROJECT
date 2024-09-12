@@ -59,4 +59,4 @@ API: YOUTUBE V3
 
 방 생성 및 관리
 
-**Google Youtube V3 API** 필요 
+**Google Youtube V3 API KEY** 필요 
