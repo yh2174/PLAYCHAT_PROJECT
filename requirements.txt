@@ -1,8 +1,16 @@
-aiohttp==3.10.5
+# Web Framework
 Flask==3.0.3
 Flask-Cors==5.0.0
 Flask-SocketIO==5.3.7
-python-dotenv==1.0.1
+
+# Security
+bcrypt==4.2.0
+Flask-Limiter==3.8.0
+
+# HTTP & WebSocket
+aiohttp==3.10.5
 requests==2.32.3
 simple-websocket==1.0.0
-bcrypt==4.2.0
+
+# Environment
+python-dotenv==1.0.1
